@@ -22,6 +22,7 @@ module.exports = {
       backgroundImage: {
         feat04: 'url("../images/feature-04.png")',
         feat06: 'url("../images/feature-06.png")',
+        feat12: 'url("../images/feature-12.png")',
       },
     },
   },
