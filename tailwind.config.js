@@ -23,6 +23,8 @@ module.exports = {
         feat04: 'url("../images/feature-04.png")',
         feat06: 'url("../images/feature-06.png")',
         feat12: 'url("../images/feature-12.png")',
+        feat19: 'url("../images/feature-19.png")',
+        feat21: 'url("../images/feature-21.png")',
       },
     },
   },
