@@ -1005,6 +1005,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   max-width: 830px;
 }
 
+.max-w-\[716px\]{
+  max-width: 716px;
+}
+
 .shrink-0{
   flex-shrink: 0;
 }
@@ -1201,6 +1205,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-border-opacity: 0.2;
 }
 
+.border-opacity-10{
+  --tw-border-opacity: 0.1;
+}
+
 .bg-primary{
   --tw-bg-opacity: 1;
   background-color: rgb(47 24 147 / var(--tw-bg-opacity));
@@ -1281,6 +1289,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .p-3{
   padding: 0.75rem;
+}
+
+.p-5{
+  padding: 1.25rem;
 }
 
 .px-5{
@@ -1777,6 +1789,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .sm\:p-16{
     padding: 4rem;
+  }
+
+  .sm\:p-10{
+    padding: 2.5rem;
   }
 
   .sm\:px-10{
