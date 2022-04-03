@@ -25,6 +25,8 @@ module.exports = {
         feat12: 'url("../images/feature-12a.png")',
         feat19: 'url("../images/feature-19.png")',
         feat21: 'url("../images/feature-21.png")',
+        feat36: 'url("../images/feature-36a.png")',
+        feat38: 'url("../images/feature-38a.png")',
       },
     },
   },
